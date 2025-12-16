@@ -1,4 +1,4 @@
-# AI Employment Sentiment & Text Analytics  
+# Public Sentiment About Employment in the Era of Artificial Intelligence
 **Automation Anxiety and AI Narratives Across Platforms (2017–2025)**
 
 ---
