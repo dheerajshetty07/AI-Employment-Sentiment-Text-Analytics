@@ -53,7 +53,7 @@ All methods are interpretable and reproducible.
 
 ## Key Findings
 
-### 1️⃣ Platform Narratives Are Fundamentally Different
+### 1️ Platform Narratives Are Fundamentally Different
 - **News media** frame AI as progress and opportunity
 - **Reddit** surfaces fear, uncertainty, and human impact
 - **Twitter** is mostly neutral and informational
@@ -64,7 +64,7 @@ There is no unified narrative — **platform norms shape perception**.
 
 ---
 
-### 2️⃣ Sentiment Distribution Varies by Platform
+### 2️ Sentiment Distribution Varies by Platform
 **What we observe:**
 - News articles are overwhelmingly positive
 - Reddit contains the highest proportion of negative sentiment
@@ -77,7 +77,7 @@ Where people discuss AI strongly influences how they feel about it.
 
 ---
 
-### 3️⃣ Fear vs. Optimism Is Platform-Dependent
+### 3️ Fear vs. Optimism Is Platform-Dependent
 - Optimism dominates **news and Twitter**
 - Reddit shows significantly higher **fear-related language**
 - Statistical testing confirms this difference is **significant**
@@ -89,7 +89,7 @@ Reddit acts as an early indicator of workforce anxiety.
 
 ---
 
-### 4️⃣ Topic Modeling Reveals Different Emphases
+### 4️ Topic Modeling Reveals Different Emphases
 **Major themes identified:**
 - Job displacement  
 - Reskilling and education  
@@ -107,7 +107,7 @@ Reddit acts as an early indicator of workforce anxiety.
 
 ---
 
-### 5️⃣ Language Reflects Platform Values
+### 5️ Language Reflects Platform Values
 **Vocabulary patterns:**
 - **Twitter**: future, innovation, technology  
 - **Reddit**: people, work, risk, replace  
@@ -117,7 +117,7 @@ Words reveal what each platform prioritizes.
 
 ![Common terms on Twitter](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms_Twitter.png)
 
-![Common terms on Reddit]([Figures/WC_CommonTerms_Reddit.](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms-Reddit.png))
+![Common terms on Reddit](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms-Reddit.png)
 
 ![Common terms in News](https://github.com/dheerajshetty07/ai-employment-sentiment-text-analytics/blob/main/Figures/WC-CommonTerms-News.png)
 
