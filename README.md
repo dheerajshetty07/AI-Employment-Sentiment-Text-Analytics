@@ -141,11 +141,11 @@ Words reveal what each platform prioritizes.
 
 ##  Repository Structure
 
-├── Datasets/              # Raw and processed datasets
-├── Figures/               # All visualizations used in analysis
-├── Final Paper (PDF)      # Conference-style research paper
-├── Code Appendix (PDF)    # Reproducible analysis code
-└── README.md              # Project summary (this file)
+├── Datasets/ # Raw and processed datasets
+├── Figures/  # All visualizations used in analysis
+├── Final Paper (PDF) # Conference-style research paper
+├── Code Appendix (PDF) # Reproducible analysis code
+└── README.md  # Project summary (this file)
 
 ---
 
