@@ -140,12 +140,11 @@ Words reveal what each platform prioritizes.
 ---
 
 ##  Repository Structure
-
 ├── Datasets/ # Raw and processed datasets
-├── Figures/  # All visualizations used in analysis
-├── Final Paper (PDF) # Conference-style research paper
-├── Code Appendix (PDF) # Reproducible analysis code
-└── README.md  # Project summary (this file)
+├── Figures/ # All visualizations used in analysis
+├── Dheeraj Shetty-HICSS-2025.pdf
+├── Final Assignment Code Appendix.pdf
+└── README.md # Project summary
 
 ---
 
